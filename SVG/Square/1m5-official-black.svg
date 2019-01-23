@@ -3,34 +3,43 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<rect x="-19" y="-12.37" stroke="#000000" stroke-miterlimit="10" width="1038" height="1036"/>
+<rect x="-19" y="-12.37" fill="#212121" stroke="#212121" stroke-miterlimit="10" width="1038" height="1036"/>
 <g>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="642.75" y1="735.692" x2="235.75" y2="735.692"/>
 	<g>
 		
-			<text transform="matrix(1 0 0 1 253.6338 309.1338)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="112.7397">1</text>
+			<line fill="none" stroke="#F4F1EC" stroke-width="53.47" stroke-miterlimit="10" x1="690.523" y1="766.874" x2="147.315" y2="766.874"/>
 		<g>
+			<g>
+				<path fill="#F4F1EC" stroke="#F4F1EC" stroke-width="4" stroke-miterlimit="10" d="M172.538,180.709h15.799V110.29h-16.401
+					V92.234h36.112v88.475h14.595v16.853h-50.105V180.709z"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4F1EC" stroke="#F4F1EC" stroke-width="4" stroke-miterlimit="10" d="M833.735,702.08h-56.877v18.508h20.464
+						c22.419,0,42.432,9.178,42.281,33.854c0,23.925-20.013,35.36-41.229,35.36c-23.172,0-43.033-8.276-43.184-32.952h19.711
+						c0,11.586,13.241,14.595,23.172,14.595c9.63,0,21.817-4.514,21.817-17.003c0.15-11.887-11.736-15.348-22.569-15.348h-39.874
+						c0-18.959,0-36.563,0-55.673h76.287V702.08z"/>
+				</g>
+			</g>
 			
-				<text transform="matrix(1 0 0 1 687.1455 751.9707)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="112.7397">5</text>
-		</g>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="744.25" y1="233.692" x2="744.25" y2="604.692"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="255.25" y1="563.979" x2="255.25" y2="755.693"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="764.25" y1="247.692" x2="357.25" y2="247.692"/>
-		<g>
-			<path fill="#FFFFFF" d="M255.25,563.979h95.979c5.345,0,8.018-2.934,8.397-8.067l17.563-211.642h51.922l55.74,123.978
-				c6.49,15.037,13.361,34.846,13.361,34.846h0.764c0,0,6.873-19.809,13.362-34.846l55.743-123.978h51.923l17.56,211.642
-				c0.383,5.134,3.057,8.067,8.399,8.067h98.156l0.13,40.714H614.661c-17.946,0-24.055-7.336-25.582-24.942l-9.161-115.904
-				c-1.527-17.241-0.383-40.348-0.383-40.348h-0.763c0,0-8.018,25.677-14.892,40.348l-45.051,96.099h-40.469l-45.049-96.099
-				c-6.873-14.671-14.889-40.714-14.889-40.714h-0.765c0,0,1.147,23.473-0.382,40.714l-8.783,115.904
-				c-1.527,17.606-8.017,24.942-25.96,24.942H255.25V563.979z"/>
+				<line fill="none" stroke="#F4F1EC" stroke-width="53.47" stroke-miterlimit="10" x1="825.991" y1="96.874" x2="825.991" y2="592.033"/>
+			
+				<line fill="none" stroke="#F4F1EC" stroke-width="53.37" stroke-miterlimit="10" x1="173.342" y1="537.693" x2="173.342" y2="793.568"/>
+			
+				<line fill="none" stroke="#F4F1EC" stroke-width="53.37" stroke-miterlimit="10" x1="852.685" y1="115.559" x2="309.478" y2="115.559"/>
+			<g>
+				<path fill="#F4F1EC" d="M173.342,537.693H301.44c7.134,0,10.701-3.914,11.208-10.767l23.441-282.47h69.298l74.395,165.468
+					c8.662,20.069,17.833,46.507,17.833,46.507h1.019c0,0,9.174-26.438,17.835-46.507l74.398-165.468h69.299l23.437,282.47
+					c0.511,6.853,4.08,10.767,11.21,10.767h131.006l0.173,54.34H653.034c-23.952,0-32.104-9.79-34.144-33.289l-12.228-154.693
+					c-2.038-23.011-0.51-53.851-0.51-53.851h-1.019c0,0-10.7,34.27-19.875,53.851L525.132,532.31H471.12l-60.125-128.259
+					c-9.174-19.581-19.871-54.34-19.871-54.34h-1.021c0,0,1.53,31.329-0.51,54.34l-11.723,154.693
+					c-2.039,23.499-10.7,33.289-34.648,33.289H173.342V537.693z"/>
+			</g>
 		</g>
 	</g>
-</g>
-<g>
-	
-		<text transform="matrix(1 0 0 1 39.5396 908.1396)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="48" letter-spacing="4">UNCENSORED COMMUNICATIONS</text>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 39.5396 916.3896)" fill="#F4F1EC" stroke="#F4F1EC" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="48" letter-spacing="4">UNCENSORED COMMUNICATIONS</text>
+	</g>
 </g>
 </svg>

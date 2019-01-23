@@ -3,33 +3,42 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<rect x="-19" y="-12.032" stroke="#000000" stroke-miterlimit="10" width="1038" height="1036"/>
+<rect x="-19" y="-12.032" fill="#212121" stroke="#212121" stroke-miterlimit="10" width="1038" height="1036"/>
 <g>
-	
-		<text transform="matrix(1 0 0 1 380.0317 754.1924)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="60" letter-spacing="6">1M5.IO</text>
-</g>
-<g>
-	<line fill="none" stroke="#FFFFFF" stroke-width="60.6" stroke-miterlimit="10" x1="716.083" y1="856.771" x2="100" y2="856.771"/>
 	<g>
 		
-			<text transform="matrix(1 0 0 1 127.0713 211.082)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="170.6561">1</text>
+			<text transform="matrix(1 0 0 1 356.0376 764.8564)" fill="#F4F1EC" stroke="#F4F1EC" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="72" letter-spacing="7">1M5.IO</text>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#F4F1EC" stroke-width="60.6" stroke-miterlimit="10" x1="716.083" y1="867.436" x2="100" y2="867.436"/>
 		<g>
+			<g>
+				<path fill="#F4F1EC" stroke="#F4F1EC" stroke-width="4" stroke-miterlimit="10" d="M128.607,202.633h17.918v-79.866h-18.601
+					v-20.479h40.957v100.345h16.553v19.113h-56.828V202.633z"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#F4F1EC" stroke="#F4F1EC" stroke-width="4" stroke-miterlimit="10" d="M878.51,793.95h-64.507v20.99h23.209
+						c25.428,0,48.124,10.41,47.954,38.397c0,27.134-22.697,40.104-46.76,40.104c-26.28,0-48.807-9.386-48.978-37.373h22.355
+						c0,13.141,15.018,16.553,26.281,16.553c10.922,0,24.745-5.119,24.745-19.283c0.17-13.482-13.312-17.407-25.599-17.407h-45.224
+						c0-21.502,0-41.469,0-63.142h86.521V793.95z"/>
+				</g>
+			</g>
 			
-				<text transform="matrix(1 0 0 1 783.2852 881.4121)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="170.6561">5</text>
-		</g>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="60.6" stroke-miterlimit="10" x1="869.726" y1="96.885" x2="869.726" y2="658.475"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="60.6" stroke-miterlimit="10" x1="129.518" y1="596.846" x2="129.518" y2="887.048"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="60.6" stroke-miterlimit="10" x1="900" y1="118.077" x2="283.917" y2="118.077"/>
-		<g>
-			<path fill="#FFFFFF" d="M129.518,596.846h145.284c8.091,0,12.137-4.441,12.711-12.212L314.1,264.268h78.595l84.375,187.667
-				c9.825,22.762,20.226,52.747,20.226,52.747h1.156c0,0,10.404-29.985,20.227-52.747l84.379-187.667h78.597l26.58,320.366
-				c0.58,7.771,4.627,12.212,12.715,12.212h148.581l0.196,61.629H673.564c-27.165,0-36.412-11.104-38.724-37.756l-13.867-175.446
-				c-2.313-26.099-0.58-61.075-0.58-61.075h-1.154c0,0-12.137,38.867-22.542,61.075l-68.193,145.466h-61.259l-68.191-145.466
-				c-10.404-22.208-22.537-61.63-22.537-61.63h-1.157c0,0,1.737,35.531-0.578,61.63l-13.295,175.446
-				c-2.312,26.651-12.135,37.756-39.296,37.756H129.518V596.846z"/>
+				<line fill="none" stroke="#F4F1EC" stroke-width="60.6" stroke-miterlimit="10" x1="869.726" y1="107.549" x2="869.726" y2="669.139"/>
+			
+				<line fill="none" stroke="#F4F1EC" stroke-width="60.6" stroke-miterlimit="10" x1="129.518" y1="607.51" x2="129.518" y2="897.712"/>
+			
+				<line fill="none" stroke="#F4F1EC" stroke-width="60.6" stroke-miterlimit="10" x1="900" y1="128.741" x2="283.917" y2="128.741"/>
+			<g>
+				<path fill="#F4F1EC" d="M129.518,607.51h145.284c8.091,0,12.137-4.441,12.711-12.212L314.1,274.932h78.595l84.375,187.667
+					c9.825,22.762,20.226,52.747,20.226,52.747h1.156c0,0,10.404-29.985,20.227-52.747l84.379-187.667h78.597l26.58,320.366
+					c0.58,7.771,4.627,12.212,12.715,12.212h148.581l0.196,61.629H673.564c-27.165,0-36.412-11.104-38.724-37.756l-13.867-175.446
+					c-2.313-26.099-0.58-61.075-0.58-61.075h-1.154c0,0-12.137,38.867-22.542,61.075l-68.193,145.466h-61.259l-68.191-145.466
+					c-10.404-22.208-22.537-61.63-22.537-61.63h-1.157c0,0,1.737,35.531-0.578,61.63l-13.295,175.446
+					c-2.312,26.651-12.135,37.756-39.296,37.756H129.518V607.51z"/>
+			</g>
 		</g>
 	</g>
 </g>

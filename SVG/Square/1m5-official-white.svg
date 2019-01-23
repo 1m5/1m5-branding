@@ -3,33 +3,45 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<rect x="-19" y="-18" fill="#F4F1EC" stroke="#F4F1EC" stroke-miterlimit="10" width="1038" height="1036"/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="40" stroke-miterlimit="10" x1="642.75" y1="736.131" x2="235.75" y2="736.131"/>
 	<g>
 		
-			<text transform="matrix(1 0 0 1 253.6338 309.5723)" stroke="#000000" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="112.7397">1</text>
+			<line fill="none" stroke="#212121" stroke-width="53.47" stroke-miterlimit="10" x1="690.523" y1="778.488" x2="147.315" y2="778.488"/>
 		<g>
+			<g>
+				<g>
+					<path fill="#212121" stroke="#212121" stroke-width="4" stroke-miterlimit="10" d="M172.72,190.062h17.919v-79.866h-18.602
+						V89.717h40.957v100.345h16.554v19.113H172.72V190.062z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#212121" stroke="#212121" stroke-width="4" stroke-miterlimit="10" d="M844.999,702.086h-64.507v20.99h23.209
+						c25.428,0,48.124,10.41,47.954,38.398c0,27.133-22.697,40.104-46.76,40.104c-26.28,0-48.807-9.387-48.978-37.373h22.355
+						c0,13.139,15.018,16.553,26.281,16.553c10.922,0,24.745-5.119,24.745-19.283c0.17-13.482-13.312-17.408-25.599-17.408h-45.224
+						c0-21.502,0-41.469,0-63.141h86.521V702.086z"/>
+				</g>
+			</g>
 			
-				<text transform="matrix(1 0 0 1 687.1455 752.4092)" stroke="#000000" stroke-width="4" stroke-miterlimit="10" font-family="'NexaBold'" font-size="112.7397">5</text>
-		</g>
-		
-			<line fill="none" stroke="#000000" stroke-width="40" stroke-miterlimit="10" x1="744.25" y1="234.131" x2="744.25" y2="605.131"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="40" stroke-miterlimit="10" x1="255.25" y1="564.417" x2="255.25" y2="756.132"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="40" stroke-miterlimit="10" x1="764.25" y1="248.131" x2="357.25" y2="248.131"/>
-		<g>
-			<path d="M255.25,564.417h95.979c5.345,0,8.018-2.934,8.397-8.067l17.563-211.642h51.922l55.74,123.978
-				c6.49,15.037,13.361,34.846,13.361,34.846h0.764c0,0,6.873-19.809,13.362-34.846l55.743-123.978h51.923l17.56,211.642
-				c0.383,5.134,3.057,8.067,8.399,8.067h98.156l0.13,40.714H614.661c-17.946,0-24.055-7.336-25.582-24.942l-9.161-115.904
-				c-1.527-17.241-0.383-40.348-0.383-40.348h-0.763c0,0-8.018,25.677-14.892,40.348l-45.051,96.099h-40.469l-45.049-96.099
-				c-6.873-14.671-14.889-40.714-14.889-40.714h-0.765c0,0,1.147,23.473-0.382,40.714l-8.783,115.904
-				c-1.527,17.606-8.017,24.942-25.96,24.942H255.25V564.417z"/>
+				<line fill="none" stroke="#212121" stroke-width="53.47" stroke-miterlimit="10" x1="825.991" y1="108.487" x2="825.991" y2="603.646"/>
+			
+				<line fill="none" stroke="#212121" stroke-width="53.37" stroke-miterlimit="10" x1="173.342" y1="549.307" x2="173.342" y2="805.182"/>
+			
+				<line fill="none" stroke="#212121" stroke-width="53.37" stroke-miterlimit="10" x1="852.685" y1="127.173" x2="309.478" y2="127.173"/>
+			<g>
+				<path fill="#212121" d="M173.342,549.307H301.44c7.134,0,10.701-3.914,11.208-10.766L336.09,256.07h69.298l74.395,165.468
+					c8.662,20.07,17.833,46.508,17.833,46.508h1.019c0,0,9.174-26.438,17.835-46.508l74.398-165.468h69.299l23.437,282.471
+					c0.511,6.852,4.08,10.766,11.21,10.766h131.006l0.173,54.34H653.034c-23.952,0-32.104-9.789-34.144-33.289l-12.228-154.693
+					c-2.038-23.011-0.51-53.851-0.51-53.851h-1.019c0,0-10.7,34.271-19.875,53.851l-60.128,128.26H471.12l-60.125-128.26
+					c-9.174-19.58-19.871-54.339-19.871-54.339h-1.021c0,0,1.53,31.328-0.51,54.339l-11.723,154.693
+					c-2.039,23.5-10.7,33.289-34.648,33.289H173.342V549.307z"/>
+			</g>
 		</g>
 	</g>
-</g>
-<g>
-	
-		<text transform="matrix(1 0 0 1 39.5391 908.5781)" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="48" letter-spacing="4">UNCENSORED COMMUNICATIONS</text>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 39.5391 918.9063)" fill="#212121" stroke="#212121" stroke-width="2" stroke-miterlimit="10" font-family="'Museo-700'" font-size="48" letter-spacing="4">UNCENSORED COMMUNICATIONS</text>
+	</g>
 </g>
 </svg>
